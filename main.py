@@ -1,7 +1,7 @@
-x = int(2)
-y = int(2.4)
+a = int(2)
+b = int(2.4)
 z = int("34")
-print(x, y, z)
+print(a, b, z)
 
 a = 3 * 'hi' + 'Hello'
 print(a)
